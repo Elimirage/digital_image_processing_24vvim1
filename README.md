@@ -1,1 +1,0 @@
-# digital_image_processing_24vvim1
